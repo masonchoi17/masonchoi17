@@ -1,5 +1,5 @@
 :man_technologist: About Me:
-- 👋 Hi, I’m Mason Choi.
+- 👋 Hello, welcome to my GitHub!
 - 👀 I’m interested in: Cybersecurity
 - 🌱 I’m currently learning: How to improve my coding skills
 - 💞️ I’m looking to collaborate on: Any interesting project!
