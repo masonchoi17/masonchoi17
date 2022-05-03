@@ -3,7 +3,6 @@
 - 👀 I’m interested in: Cybersecurity
 - 🌱 I’m currently learning: How to improve my coding skills
 - 💞️ I’m looking to collaborate on: Any interesting project!
-- 📫 How to reach me: 18gc23@queensu.ca
 
 ---
 
